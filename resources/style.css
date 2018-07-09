@@ -1,0 +1,15 @@
+body{
+    font-family: Helvetica;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+
+nav {
+    font-size: 18px;
+    color: white;
+}
